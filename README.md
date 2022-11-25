@@ -1,3 +1,1 @@
-# yffr @ github
-
-main git account ![here](https://codeberg.org/gfr)
+# main account ![here](https://codeberg.org/gfr)
